@@ -7,3 +7,6 @@ En meget simpel regnemaskine der kan bruges til at lave de mest simple løsninge
 Jens har nu Git
 Kim kan lave Commit
 Og Andreas er kongen af GIT COMMIT
+
+
+Det er pisse bøvlet det her !
