@@ -9,4 +9,8 @@ Kim kan lave Commit
 Og Andreas er kongen af GIT COMMIT
 
 
+Vi kan klare det
+
+Vi er der snart...
+
 Det er pisse bøvlet det her !
